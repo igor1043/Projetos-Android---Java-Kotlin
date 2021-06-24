@@ -11,6 +11,6 @@ Conjunto de Aplicativos criados com Java-Kotlin. Abaixo existe um quadro no qual
  
 # Lista de Apps
 
- | [**Mapa - Mapbox**](https://github.com/igor1043/Projetos-em-Flutter/tree/main/Calculadora_IMC)      | 
+ | [**Mapa - Mapbox**](https://github.com/igor1043/Projetos-Android-Java-Kotlin/tree/main/KotlinMapboxTeste)      | 
 |------------|
 |  <img src="https://github.com/igor1043/Projetos-Android-Java-Kotlin/blob/main/screenshots/Teste%20JavaKotlin.jpg" width="250"> |
